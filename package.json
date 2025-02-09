@@ -1,7 +1,6 @@
 {
-  "homepage": "https://fond_kingra.github.io/Portfoliov2/",
+  "homepage": "https://fondkingra.github.io/Portfoliov2/",
   "name": "sodhanai",
-  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
