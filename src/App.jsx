@@ -8,7 +8,7 @@ import About from '../Pages/About';
 
 const App = () => {
   return (
-    <Router>
+    <Router basename='/Portfoliov2'>
       <Routes>
         <Route path="/" element={<About/>} />
         <Route path="/contact" element={<Contact />} />
